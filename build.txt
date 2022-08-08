@@ -1,0 +1,4 @@
+displayName = 修复灾厄地图bug | Fix Calamity Map Bug
+author = Lastprismer
+modReferences =CalamityMod
+version = 0.1.1
